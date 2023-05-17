@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am Gaun-Min (Tommy) Lien
 
 - 🔭 Currently working at Dance4Healing as Software Engineer Intern.
-- 🌱 Studying my MS degree in Computer Science at Arizona State University.
+- 🌱 pursuing my Master's degree in Computer Science at Arizona State University.
 
 [![Linkedin Badge](https://img.shields.io/badge/-tommylien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tommylien/)](https://linkedin.com/in/tommylien/)
 [![Gmail Badge](https://img.shields.io/badge/-guanminlien@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guanminlien@gmail.com)](mailto:guanminlien@gmail.com)
